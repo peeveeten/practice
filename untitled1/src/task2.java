@@ -4,7 +4,6 @@ public class task2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("вычисление функции");
         System.out.print("введите х: ");
 
         double x = scanner.nextDouble();
